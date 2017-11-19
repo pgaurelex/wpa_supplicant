@@ -16,7 +16,7 @@ http://www.au-kbc.org/comm/Docs/papers/Vipin_Analysis_of_open_source_WLAN_driver
 https://www.elektronik-kompendium.de/sites/net/0907071.htm
 
 
-// Important in term of setup of configuration for P2P communication
+// Please go through all the blogs --> Important info about WiFi P2P
 http://riya80211.blogspot.de/2013/07/p2p-configuration-of-wpasupplicant-in.html
 
 // organisation of wifi networking stack from userspace --> kernel space
