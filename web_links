@@ -25,6 +25,7 @@ https://www.linux.com/blog/linux-wireless-Networking-short-walk
 
 // How to setup wifi direct on 2 linux machines:
 http://processors.wiki.ti.com/index.php/OMAP_Wireless_Connectivity_NLCP_WiFi_Direct_Configuration_Scripts
+http://processors.wiki.ti.com/index.php/WiFi_Direct_Configuration_Scripts
 
 // IP Tables and Masquerading technique
 http://www.oreilly.com/openbook/linag2/book/ch11.html
@@ -32,6 +33,13 @@ http://www.oreilly.com/openbook/linag2/book/ch11.html
 //Kernel IP forwarding
 https://unix.stackexchange.com/questions/14056/what-is-kernel-ip-forwarding
 
+//How to compile wpa_supplicant with P2P support
+https://wireless.wiki.kernel.org/en/developers/p2p/howto
+http://svn.dd-wrt.com/browser/src/router/hostapd-wps/wpa_supplicant/README-P2P?rev=16495
+http://riya80211.blogspot.de/2013/07/p2p-configuration-of-wpasupplicant-in.html
+
+//FAQ for Android <--> Linux(wifi p2p)
+https://stackoverflow.com/questions/31877144/how-to-set-up-a-wifi-direct-connection-between-android-and-linux
 
 ## WiFi Direct Wiki
 
