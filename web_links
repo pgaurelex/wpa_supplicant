@@ -29,7 +29,8 @@ http://processors.wiki.ti.com/index.php/OMAP_Wireless_Connectivity_NLCP_WiFi_Dir
 // IP Tables and Masquerading technique
 http://www.oreilly.com/openbook/linag2/book/ch11.html
 
-
+//Kernel IP forwarding
+https://unix.stackexchange.com/questions/14056/what-is-kernel-ip-forwarding
 
 
 ## WiFi Direct Wiki
