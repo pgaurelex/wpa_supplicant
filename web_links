@@ -33,6 +33,9 @@ http://www.oreilly.com/openbook/linag2/book/ch11.html
 //Kernel IP forwarding
 https://unix.stackexchange.com/questions/14056/what-is-kernel-ip-forwarding
 
+//Detailed notes on p2p conf file
+https://w1.fi/cgit/hostap/plain/wpa_supplicant/wpa_supplicant.conf
+
 //How to compile wpa_supplicant with P2P support
 https://wireless.wiki.kernel.org/en/developers/p2p/howto
 http://svn.dd-wrt.com/browser/src/router/hostapd-wps/wpa_supplicant/README-P2P?rev=16495
