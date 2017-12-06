@@ -56,6 +56,9 @@ driver_param=use_p2p_group_interface=1 or
 driver_param=use_multi_chan_concurrent=1 use_p2p_group_interface=1
 When this is added, start the supplicant normally on wlan0 like above. Then, when P2P negotiation finishes, it will create a new interface for the group (called “p2p-wlan0-0”) and put it into the appropriate mode (GO or P2P client).
 
+## Creating 2 AP's --> 2.4 and 5 Ghz using same instance of HostAPD.
+https://wiki.gentoo.org/wiki/Hostapd
+
 ## WiFi Direct Wiki
 
 DFS --> Dynamic Frequency Switching ( http://wifi-insider.com/wlan/dfs.htm )
