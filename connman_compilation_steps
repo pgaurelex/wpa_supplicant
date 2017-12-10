@@ -1,0 +1,16 @@
+
+## Compilation steps
+
+1. Download latest connman tar ball from below
+https://www.kernel.org/pub/linux/network/connman/
+
+2. Go through the list of links mentioned below for understanding the support present as part of connmand
+https://01.org/connman/documentation
+
+3. To configure and generate Makefile
+--> ./configure --prefix=/usr --sysconfdir=/etc --localstatedir=/var
+
+4. Mising packages in ubuntu
+  a. xtables -->  sudo apt-get install iptables-dev
+  b. gnutls --> sudo apt-get install libgnutls28-dev
+
